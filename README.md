@@ -13,7 +13,7 @@ This is an archive of my older research papers in finance. My newer research is 
 
 ## S&P 500
 
-- [Layman's Guide to Investing in the S&P 500](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2015layman-sp500.xlsx)
+- [Layman's Guide to Investing in the S&P 500](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2015layman-sp500.pdf)
 
 - [Spreadsheet for Retirement Planning](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2015layman-sp500.xlsx)
 
