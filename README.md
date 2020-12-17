@@ -1,6 +1,15 @@
 # Finance Papers
 
-This is an archive of my older research papers in finance. My newer research is written as interactive [Python Notebooks](https://github.com/Hvass-Labs/FinanceOps).
+This is an archive of my research papers in finance. My newer research is mostly written as interactive [Python Notebooks](https://github.com/Hvass-Labs/FinanceOps).
+
+## Long-Term Stock Forecasting
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2020long-term_stock_forecasting.pdf)
+
+- [Data and Python Source-Code](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Long-Term_Stock_Forecasting.ipynb)
+
+- [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsnzc1XrcXOl1PDLm6ESUAE1)
+
 
 ## Share Buyback Valuation
 
@@ -9,6 +18,8 @@ This is an archive of my older research papers in finance. My newer research is 
 - [Shorter Introduction](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2013share-buyback-intro.pdf)
 
 - [Spreadsheet](https://github.com/Hvass-Labs/Finance-Papers/raw/master/share-buyback.xlsx)
+
+- [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsk2b8Y-MFU6W_rnCgwN51Ef)
 
 
 ## S&P 500
