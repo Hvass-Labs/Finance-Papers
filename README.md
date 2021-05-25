@@ -22,6 +22,15 @@ This is an archive of my research papers in finance. My newer research is mostly
 - [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsk2b8Y-MFU6W_rnCgwN51Ef)
 
 
+## Does Volatility Harvesting Really Work?
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2021volatility-harvesting.pdf)
+
+- [Data and Python Source-Code](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Volatility_Harvesting.ipynb)
+
+- [Video](https://youtu.be/t0AxhyQRRvM)
+
+
 ## S&P 500
 
 - [Layman's Guide to Investing in the S&P 500](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2015layman-sp500.pdf)
