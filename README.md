@@ -2,6 +2,18 @@
 
 This is an archive of my research papers in finance. My newer research is mostly written as interactive [Python Notebooks](https://github.com/Hvass-Labs/FinanceOps).
 
+
+## Simple Portfolio Optimization That Works!
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2021simple-portfolio-optimization.pdf)
+
+- [Data and Python Source-Code](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Simple_Portfolio_Optimization.ipynb)
+
+- [InvestOps Python package](https://github.com/Hvass-Labs/InvestOps)
+
+- Video (Coming soon ...)
+
+
 ## Long-Term Stock Forecasting
 
 - [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2020long-term_stock_forecasting.pdf)
