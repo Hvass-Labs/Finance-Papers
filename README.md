@@ -11,7 +11,7 @@ This is an archive of my research papers in finance. My newer research is mostly
 
 - [InvestOps Python package](https://github.com/Hvass-Labs/InvestOps)
 
-- Video (Coming soon ...)
+- [Video](https://youtu.be/5--5Ydtbu1Y)
 
 
 ## Long-Term Stock Forecasting
