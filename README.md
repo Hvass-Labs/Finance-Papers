@@ -14,6 +14,17 @@ This is an archive of my research papers in finance. My newer research is mostly
 - [Video](https://youtu.be/5--5Ydtbu1Y)
 
 
+## Fast Portfolio Diversification
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2022fast-portfolio-diversification.pdf)
+
+- [Data and Python Source-Code](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Fast_Portfolio_Diversification.ipynb)
+
+- [InvestOps Python package](https://github.com/Hvass-Labs/InvestOps)
+
+- [Video](https://youtu.be/5--5Ydtbu1Y)
+
+
 ## Long-Term Stock Forecasting
 
 - [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2020long-term_stock_forecasting.pdf)
