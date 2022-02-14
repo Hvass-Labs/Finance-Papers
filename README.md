@@ -25,6 +25,15 @@ This is an archive of my research papers in finance. My newer research is mostly
 - [Video](https://youtu.be/5--5Ydtbu1Y)
 
 
+## Portfolio Group Constraints
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2022portfolio-group-constraints.pdf)
+
+- [Data and Python Source-Code](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Portfolio_Group_Constraints.ipynb)
+
+- [InvestOps Python package](https://github.com/Hvass-Labs/InvestOps)
+
+
 ## Long-Term Stock Forecasting
 
 - [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2020long-term_stock_forecasting.pdf)
