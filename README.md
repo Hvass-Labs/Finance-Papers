@@ -45,7 +45,7 @@ This is an archive of my research papers in finance.
 - [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsnzc1XrcXOl1PDLm6ESUAE1)
 
 
-## Share Buyback Valuation
+## Share *Buyback* Valuation
 
 - [Full Treatise](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2012share-buyback.pdf)
 
@@ -54,6 +54,11 @@ This is an archive of my research papers in finance.
 - [Spreadsheet](https://github.com/Hvass-Labs/Finance-Papers/raw/master/share-buyback.xlsx)
 
 - [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsk2b8Y-MFU6W_rnCgwN51Ef)
+
+
+## Share *Issuance* Valuation
+
+- [Paper](https://github.com/Hvass-Labs/Finance-Papers/raw/master/pedersen2024share-issuance-valuation-simulation.pdf)
 
 
 ## Does Volatility Harvesting Really Work?
